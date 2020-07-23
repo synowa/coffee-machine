@@ -274,10 +274,16 @@ files:
 - name: src/machine/CoffeeMachine.java
   visible: true
   learner_created: true
+- name: src/machine/CoffeeMaker.java
+  visible: true
+  learner_created: true
+- name: src/machine/CoffeeMakerState.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/33/stages/180/implement
 status: Solved
 feedback:
   message: Congratulations! Continue on <a href="https://hyperskill.org/projects/33/stages/180/implement">JetBrains
     Academy</a>
-  time: Wed, 22 Jul 2020 12:37:03 UTC
-record: -1
+  time: Thu, 23 Jul 2020 18:08:08 UTC
+record: 6
